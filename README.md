@@ -40,7 +40,7 @@ A basic understanding of JavaScript, React.js, Node.js, and MongoDB
 Clone the Repository:
 
 Bash
-git clone https://github.com/CLINTON431/real-estate-app.git
+git clone https://github.com/CLINTON431/MERN-Real-Estate-App.git
 Use code with caution.
 Install Dependencies:
 
